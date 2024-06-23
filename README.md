@@ -14,4 +14,4 @@ This project i use for my Assestment on Belajar Frontend Pemula by Dicoding Acad
 
 ## Deploy on Vercel
 
-https://submission-jwd-2021.vercel.app/
+https://submission-fe-beginner.vercel.app/
