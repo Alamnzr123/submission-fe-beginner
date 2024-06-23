@@ -1,0 +1,14 @@
+{
+  "name": "submission-frontendbeginner",
+  "version": "1.0.0",
+  "description": "Submission Belajar frontend pemula - Dicoding Academy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "nzr.rahmad@gmail.com",
+    "name": "Rahmad Alamsyah Nazaruddin"
+  },
+  "license": "ISC"
+}
